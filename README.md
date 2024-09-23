@@ -8,7 +8,6 @@
 - PHP 7.0 or higher
 
 ## Installation
-a
 1. Clone the repository:
    ```bash
    git clone https://github.com/zaenhaxor/splitter.git
