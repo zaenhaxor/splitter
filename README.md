@@ -21,7 +21,7 @@ a
 4. Example
    ```bash
    php split.php file.txt 3
-   output
+5. Output
    ```bash
  #########################################
 #           Splitter file               #
